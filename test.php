@@ -18,3 +18,6 @@ function test_test()
 
 
 test_test();
+
+
+// fixed #1
