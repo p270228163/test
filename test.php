@@ -21,3 +21,4 @@ test_test();
 
 
 // fixed #1
+// fixed bug #2
