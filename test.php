@@ -22,3 +22,4 @@ test_test();
 
 // fixed #1
 // fixed bug #2
+// fix bug test 3
